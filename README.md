@@ -6,7 +6,7 @@
 
 ### Live Preview :  
 
-
+https://taleh-countries-project.netlify.app/
 
 ### Built With : 
 	- ReactJS
